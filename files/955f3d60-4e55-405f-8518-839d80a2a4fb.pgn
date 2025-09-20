@@ -1,0 +1,247 @@
+[Event "casual correspondence game"]
+[Site "https://lichess.org/JdVY5FQs"]
+[Date "2016.06.17"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "JdVY5FQs"]
+[UTCDate "2016.06.17"]
+[UTCTime "12:49:51"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. d3 e5 2. e4 Ne7 3. d4 exd4 4. Nf3 Nbc6 5. Nxd4 Nxd4 6. Qxd4 d6 7. Qb4 Qd7 8. Qc4 g6 9. Qc3 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/yBF7F3et"]
+[Date "2016.06.17"]
+[White "pgn"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[GameId "yBF7F3et"]
+[UTCDate "2016.06.17"]
+[UTCTime "12:48:52"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A41"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nd2 e5 3. dxe5 Qe7 4. f4 f6 5. exf6 Qe3 6. fxg7 Bxg7 7. Nb3 Qb6 8. g3 Nf6 9. Bh3 Ne4 10. Bxc8 Qf2# 0-1
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/8wNAgQdT"]
+[Date "2016.06.17"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "8wNAgQdT"]
+[UTCDate "2016.06.17"]
+[UTCTime "12:47:39"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 e6 2. d4 Ne7 3. Bb5 a6 4. Bf1 Nbc6 5. Nf3 d5 6. Nc3 g6 7. Bd2 Bh6 8. e4 Bxd2+ 9. Kxd2 dxe4 10. Nxe4 Qd5 11. Nc3 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/ZSe1aZvX"]
+[Date "2016.06.17"]
+[White "pgn"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[GameId "ZSe1aZvX"]
+[UTCDate "2016.06.17"]
+[UTCTime "09:30:02"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 e6 2. Nd2 Nf6 3. Ngf3 d5 4. e3 Ne4 5. Nxe4 Bb4+ 6. Ned2 Nd7 7. c3 Bd6 8. g3 c5 9. dxc5 Be7 10. Nb3 h5 11. Bh3 h4 12. O-O Kf8 13. gxh4 Qc7 14. Nbd4 Nf6 15. Ng5 e5 16. Nb5 Qb8 17. e4 Bxh3 18. Re1 Bd7 19. Na3 Bg4 20. Qa4 Rxh4 21. Be3 d4 22. cxd4 exd4 23. Bxd4 Qxh2+ 24. Kf1 Qh1# 0-1
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/ZzHyk7GT"]
+[Date "2016.06.16"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "ZzHyk7GT"]
+[UTCDate "2016.06.16"]
+[UTCTime "13:42:33"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C25"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nge2 Nge7 4. d3 d6 5. Nd5 Ng6 6. Bg5 Qxg5 7. Nxc7+ Kd7 8. Nxa8 Ke8 9. h4 Qf6 10. Nc3 b6 11. Nd5 Qe6 12. Ndc7+ Kd7 13. d4 Qe7 14. Bb5 Bb7 15. dxe5 Nxe5 16. Nd5 Qe6 17. Ndc7 Qg6 18. h5 Qxg2 19. Rh3 Qg1+ 20. Kd2 Qg5+ 21. Re3 Bxa8 22. Nxa8 Ke7 23. Nc7 g6 24. Ke1 gxh5 25. Rg3 Qh6 26. c3 Kd8 27. Bxc6 Kxc7 28. Qd4 Nxc6 29. Qxh8 Be7 30. Qe8 Bh4 31. Rf3 Ne5 32. Rh3 Qg5 33. Kf1 Qf4 34. Rxh4 Qxh4 35. Rd1 Qxe4 36. b3 Qh1+ 37. Ke2 Qf3+ 38. Kd2 Qd3+ 39. Kc1 Qf3 40. Qe7+ Kc8 41. Qxd6 Qe4 42. Qd2 h4 43. f4 Ng6 44. Qd7+ Kb8 45. f5 Nf4 46. Kb2 h3 47. Rd2 h5 48. Qxf7 b5 49. Rd8# 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/SWO8ZOFo"]
+[Date "2016.06.16"]
+[White "pgn"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[GameId "SWO8ZOFo"]
+[UTCDate "2016.06.16"]
+[UTCTime "13:41:18"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A41"]
+[Termination "Normal"]
+
+1. d4 d6 2. Nf3 d5 3. c3 e6 4. Qd3 Nc6 5. g3 Nge7 6. Bh3 h6 7. O-O b6 8. c4 dxc4 9. Qxc4 a5 10. a4 Ba6 11. Qc3 Bxe2 0-1
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/IvQTA1oM"]
+[Date "2016.06.16"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "IvQTA1oM"]
+[UTCDate "2016.06.16"]
+[UTCTime "12:39:52"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C65"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Qe2 Qe7 5. Nc3 g6 6. Qd3 Bg7 7. O-O O-O 8. Qc4 a6 9. Ba4 d6 10. d3 Rd8 11. Ng5 h6 12. Bxc6 bxc6 13. Qxc6 hxg5 14. Qxa8 Bg4 15. Qb7 d5 16. h3 Bh5 17. g4 Bxg4 18. hxg4 Nxg4 19. Qxa6 Qe6 20. Qb7 Qe7 21. a4 d4 22. Nd5 Qe6 23. Nxc7 Qf6 24. f3 Nh6 25. b4 Rd6 26. Ne8 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/XboNPxc0"]
+[Date "2016.06.14"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "XboNPxc0"]
+[UTCDate "2016.06.14"]
+[UTCTime "09:07:19"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bg5 f6 3. Be3 g5 4. Nc3 Bg7 5. h4 gxh4 6. a3 Qd6 7. Nf3 Bg4 8. Nb5 Qb6 9. Nc3 Bxf3 10. Qc1 Bh5 11. g3 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/gTTuhmSQ"]
+[Date "2016.06.14"]
+[White "pgn"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[GameId "gTTuhmSQ"]
+[UTCDate "2016.06.14"]
+[UTCTime "08:13:27"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A06"]
+[Termination "Normal"]
+
+1. d3 d5 2. Nf3 Nc6 3. c3 e6 4. Qb3 Nf6 5. Na3 Bd6 6. Nb5 h6 7. g3 e5 8. Bg2 O-O 9. O-O Na5 10. Qa4 Nc6 11. Be3 Bg4 12. Nh4 Bxe2 13. Rfe1 Bxd3 14. Na3 Kh7 15. Nc2 Be7 16. Red1 b5 17. Qb3 e4 18. Ne1 Na5 19. Qa3 Nc4 20. Qb3 Na5 0-1
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/iGIZK3aZ"]
+[Date "2016.05.20"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "iGIZK3aZ"]
+[UTCDate "2016.05.20"]
+[UTCTime "14:29:59"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A00"]
+[Termination "Normal"]
+
+1. e3 e5 2. Nc3 Qe7 3. Nb5 Nf6 4. d4 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/Yr0U2i4O"]
+[Date "2016.05.20"]
+[White "pgn"]
+[Black "lichess AI level 3"]
+[Result "0-1"]
+[GameId "Yr0U2i4O"]
+[UTCDate "2016.05.20"]
+[UTCTime "14:26:18"]
+[WhiteElo "1500"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 h5 2. Bd2 d5 3. Nc3 Nf6 4. e3 e6 5. Be2 Nc6 6. Nf3 Ne4 7. Na4 g5 8. Bc3 Bd6 9. O-O g4 10. Nh4 Nxf2 11. Qe1 Bxh2+ 12. Kxh2 Qxh4+ 13. Kg1 Nh3+ 14. Kh1 Nf2+ 15. Kg1 g3 16. Rxf2 Qh2+ 17. Kf1 Qh1# 0-1
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/tsGsVVCd"]
+[Date "2016.05.20"]
+[White "lichess AI level 3"]
+[Black "pgn"]
+[Result "1-0"]
+[GameId "tsGsVVCd"]
+[UTCDate "2016.05.20"]
+[UTCTime "14:24:34"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A02"]
+[Termination "Normal"]
+
+1. f4 f5 2. e3 e6 3. Nf3 Bd6 4. Ne5 Qf6 5. Nc3 Bxe5 6. fxe5 Qxe5 7. d4 Qd6 8. Nb5 Qc6 9. Bd2 a6 10. Na3 Qd6 11. Nc4 Qc6 12. Na5 Qb6 13. Nc4 Qb5 14. a4 Qc6 15. Na5 Qb6 16. Nc4 Qc6 17. Ne5 Qe4 18. Qh5+ Kd8 19. Nf7+ Ke7 20. Nxh8 Nc6 21. Qf7+ Kd8 22. Qf8# 1-0
+
+
+[Event "casual correspondence game"]
+[Site "https://lichess.org/Ulr2j0al"]
+[Date "2016.05.06"]
+[White "NazarkevychVolodya"]
+[Black "pgn"]
+[Result "0-1"]
+[GameId "Ulr2j0al"]
+[UTCDate "2016.05.06"]
+[UTCTime "09:57:00"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C20"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qf3 Ne7 3. Bc4 d6 4. Qxf7+ Kd7 5. Nh3 Qe8 6. Be6+ Kd8 7. Qxe8+ Kxe8 8. Bxc8 Nxc8 9. O-O Be7 10. d3 Nb6 11. b3 d5 12. Nd2 dxe4 13. Nxe4 Nc6 14. Bb2 Nd4 0-1
+
+
