@@ -1,0 +1,2002 @@
+[
+    {
+        "id": "8edc6f98-b282-4d14-984a-b08e6ac25f02",
+        "_id": "8edc6f98-b282-4d14-984a-b08e6ac25f02",
+        "firstName": "Admin",
+        "lastName": "Edge",
+        "middleName": "-",
+        "suffix": null,
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "admin.edge@ustp.edu.ph",
+        "password": "$2a$11$REoO631wlWAzIdomrto8KudYsLUq2.0Dtmj5qxY0o/cIhNjQyBu4q",
+        "contactNumber": null,
+        "dateOfBirth": null,
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "admin",
+            "slug": "admin",
+            "name": "Admin",
+            "permission": {
+                "chatPermission": true,
+                "activityPermission": true,
+                "meetPermission": true,
+                "qrCodePermission": true,
+                "tabPermission": {
+                    "all": true,
+                    "pending": true,
+                    "history": true
+                },
+                "schedulePermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "configurationPermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "userPermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "employeePermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "rolePermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "resetPasswordPermission": true,
+                "reportEvaluatorPermission": true,
+                "reportCashierPermission": true
+            }
+        },
+        "userType": null,
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=AD&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=AD&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=AD&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=AD&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=AD&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=AD&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Admin 1",
+            "title": "Admin 1",
+            "division": "-",
+            "position": "Admin",
+            "designation": "-",
+            "signature": null
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-21T11:05:07.1820087+00:00",
+        "createdAt": "2025-04-09T06:15:19.2431782+00:00",
+        "updatedAt": "2025-04-11T14:29:34.9847923+00:00",
+        "signature": null,
+        "IsDefault": false,
+        "_rid": "foAfAPr+3ccBAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccBAAAAAAAAAA==/",
+        "_etag": "\"9d02f463-0000-2300-0000-680626630000\"",
+        "_attachments": "attachments/",
+        "_ts": 1745233507
+    },
+    {
+        "id": "f9323ebf-5d39-4ce1-ac4e-b4288240ec0c",
+        "_id": "f9323ebf-5d39-4ce1-ac4e-b4288240ec0c",
+        "firstName": "Licenser",
+        "lastName": "Edge",
+        "middleName": null,
+        "suffix": null,
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "licenser.edge@ustp.edu.ph",
+        "password": "$2a$11$d6ol6n37v97l3k.B0aP0gOx58aTi/HMPR7TK/A3zLNdom8b5b7t2i",
+        "contactNumber": null,
+        "dateOfBirth": null,
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "licenser",
+            "slug": "licenser",
+            "name": "Licenser",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": null,
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=LI&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=LI&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=LI&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=LI&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=LI&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=LI&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-09T14:15:28.8952082+08:00",
+        "updatedAt": "2025-04-09T14:15:28.8952095+08:00",
+        "signature": null,
+        "IsDefault": false,
+        "_rid": "foAfAPr+3ccGAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccGAAAAAAAAAA==/",
+        "_etag": "\"0000e00b-0000-2300-0000-67f610810000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744179329
+    },
+    {
+        "id": "41b17694-119a-4d3c-b996-7aa4ab6e9b91",
+        "_id": "41b17694-119a-4d3c-b996-7aa4ab6e9b91",
+        "firstName": "Guest",
+        "lastName": "EDGE",
+        "middleName": "NTC",
+        "suffix": null,
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "guest.ntcedge@ustp.edu.ph",
+        "password": "$2a$11$c/Ytmi86dbSVxHNVR/DfhePe9m4VA9p3f9gVgRgSnZrBipU5CgrXa",
+        "contactNumber": "09367722686",
+        "dateOfBirth": "1998-12-27T00:00:00",
+        "sex": "Male",
+        "nationality": "Filipino",
+        "role": {
+            "key": "user",
+            "slug": "user",
+            "name": "User",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": "",
+            "unit": "NTC R Office",
+            "barangay": "",
+            "city": "",
+            "province": "",
+            "region": "",
+            "zipCode": ""
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Guest+EDGE&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Guest+EDGE&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Guest+EDGE&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Guest+EDGE&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Guest+EDGE&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Guest+EDGE&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-09T14:15:29.4196254+08:00",
+        "updatedAt": "2025-04-09T14:15:29.419627+08:00",
+        "signature": {
+            "original": "https://testedgeaccountstorage.blob.core.windows.net/files/173883d4-16d2-4304-8f7a-3d09b52a5cad.png",
+            "thumb": "https://testedgeaccountstorage.blob.core.windows.net/files/173883d4-16d2-4304-8f7a-3d09b52a5cad.png",
+            "small": "https://testedgeaccountstorage.blob.core.windows.net/files/173883d4-16d2-4304-8f7a-3d09b52a5cad.png",
+            "medium": "https://testedgeaccountstorage.blob.core.windows.net/files/173883d4-16d2-4304-8f7a-3d09b52a5cad.png",
+            "large": "https://testedgeaccountstorage.blob.core.windows.net/files/173883d4-16d2-4304-8f7a-3d09b52a5cad.png",
+            "xlarge": "https://testedgeaccountstorage.blob.core.windows.net/files/173883d4-16d2-4304-8f7a-3d09b52a5cad.png"
+        },
+        "IsDefault": false,
+        "_rid": "foAfAPr+3ccHAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccHAAAAAAAAAA==/",
+        "_etag": "\"0000e20b-0000-2300-0000-67f610820000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744179330
+    },
+    {
+        "id": "e7f683aa-ddd4-45cc-8007-1e1848fd7cfa",
+        "_id": "e7f683aa-ddd4-45cc-8007-1e1848fd7cfa",
+        "firstName": "Louie Jhayson",
+        "lastName": "Flores",
+        "middleName": "Tulayan",
+        "suffix": "N/A",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "louiejhayson.flores@ntc.gov.ph",
+        "password": "$2a$11$B.YEOSIzKT/JHRXNZ3w3lu4LGR5wuBuibyWAykGuiyM0MK9Ct2ivq",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "evaluator",
+            "slug": "evaluator",
+            "name": "Evaluator",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "nqdfTKBdYItn9XEwF2smLSpQx7y6AAFx",
+        "resetSendDate": "2025-04-09T07:20:06.3935958+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Louie Jhayson+Flores&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Louie Jhayson+Flores&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Louie Jhayson+Flores&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Louie Jhayson+Flores&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Louie Jhayson+Flores&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Louie Jhayson+Flores&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Evaluator I",
+            "title": "Engineer",
+            "division": "EOD",
+            "position": "Engineer I",
+            "designation": "Evaluator I",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-13T15:55:00.7811049+00:00",
+        "createdAt": "2025-04-09T07:20:06.389916+00:00",
+        "updatedAt": "2025-04-09T07:20:06.3900223+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccIAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccIAAAAAAAAAA==/",
+        "_etag": "\"05009cff-0000-2300-0000-67fbde540000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744559700
+    },
+    {
+        "id": "de2241ab-2dff-476e-8599-1a8357073a78",
+        "_id": "de2241ab-2dff-476e-8599-1a8357073a78",
+        "firstName": "John Paul",
+        "lastName": "Dap-og",
+        "middleName": "Lapu-os",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "johnpaul.dap-og@ntc.gov.ph",
+        "password": "$2a$11$6niyL4rbd6AA1oLTcWGrHeMx8oEU84IT899jCrTrWuj/qmaftNxvi",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "evaluator",
+            "slug": "evaluator",
+            "name": "Evaluator",
+            "permission": {
+                "chatPermission": true,
+                "activityPermission": true,
+                "meetPermission": true,
+                "qrCodePermission": true,
+                "tabPermission": {
+                    "all": true,
+                    "pending": true,
+                    "history": true
+                },
+                "schedulePermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "employeePermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "rolePermission": {
+                    "view": true,
+                    "edit": true,
+                    "delete": true,
+                    "create": true
+                },
+                "resetPasswordPermission": true,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "CwgFo0xLd4DB7l2eyDMftzfVzBWqZXJN",
+        "resetSendDate": "2025-04-09T07:22:44.3192136+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=John Paul+Dap-og&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=John Paul+Dap-og&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=John Paul+Dap-og&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=John Paul+Dap-og&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=John Paul+Dap-og&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=John Paul+Dap-og&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Evaluator 1",
+            "title": "Engineer I",
+            "division": "EOD",
+            "position": "Engineer I",
+            "designation": "Engineer I",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-14T16:22:32.7393755+00:00",
+        "createdAt": "2025-04-09T07:22:44.3191189+00:00",
+        "updatedAt": "2025-04-09T07:26:16.0402528+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccJAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccJAAAAAAAAAA==/",
+        "_etag": "\"17008e14-0000-2300-0000-67fd36480000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744647752
+    },
+    {
+        "id": "5d7c358a-d7b5-4054-83ba-1bb3c7deea73",
+        "_id": "5d7c358a-d7b5-4054-83ba-1bb3c7deea73",
+        "firstName": "Edissa",
+        "lastName": "Amante",
+        "middleName": "Abastas",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "edissajolina.amante@sccpag.edu.ph",
+        "password": "$2a$11$XokpnnYPyIVIbXAjtIZGWe31wF3kr/kOQnAh2YYKz58IwBwXG63C6",
+        "contactNumber": "09694398967",
+        "dateOfBirth": "1996-05-22T07:42:53.903Z",
+        "sex": "Female",
+        "nationality": "Filipino",
+        "role": {
+            "key": "user",
+            "slug": "user",
+            "name": "User",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": "",
+            "unit": "",
+            "barangay": "Brgy 4",
+            "city": "City Of Koronadal (Capital)",
+            "province": "South Cotabato",
+            "region": "Region XII - SOCCSKSARGEN",
+            "zipCode": "9506"
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Edissa+Amante&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Edissa+Amante&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Edissa+Amante&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Edissa+Amante&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Edissa+Amante&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Edissa+Amante&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-09T07:43:15.2462322+00:00",
+        "updatedAt": "2025-04-09T07:43:17.0306837+00:00",
+        "signature": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/c5eab95d-129e-4623-9bd9-3b9508275d17.png",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/c5eab95d-129e-4623-9bd9-3b9508275d17.png",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/c5eab95d-129e-4623-9bd9-3b9508275d17.png",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/c5eab95d-129e-4623-9bd9-3b9508275d17.png",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/c5eab95d-129e-4623-9bd9-3b9508275d17.png",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/c5eab95d-129e-4623-9bd9-3b9508275d17.png"
+        },
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccKAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccKAAAAAAAAAA==/",
+        "_etag": "\"0000430c-0000-2300-0000-67f625150000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744184597
+    },
+    {
+        "id": "2487337c-231a-4f64-819f-c36191e952c2",
+        "_id": "2487337c-231a-4f64-819f-c36191e952c2",
+        "firstName": "Alaster",
+        "lastName": "Saucony",
+        "middleName": "Quiboloy",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "alastersaucony@gmail.com",
+        "password": "$2a$11$Y85LGm95dJxzLcQ1.sj/H.UZqpYD7OD/aa2GruNRRqZ07qDdYb9iS",
+        "contactNumber": "09672861078",
+        "dateOfBirth": "2005-04-09T07:49:37.199Z",
+        "sex": "Male",
+        "nationality": "Filipino",
+        "role": {
+            "key": "user",
+            "slug": "user",
+            "name": "User",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": "Roxas",
+            "unit": "12",
+            "barangay": "Sudapin",
+            "city": "City Of Kidapawan (Capital)",
+            "province": "North Cotabato",
+            "region": "Region XII - SOCCSKSARGEN",
+            "zipCode": "8890"
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/5a890225-af77-4977-bd7a-aebeccd7efff.jpeg",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/5a890225-af77-4977-bd7a-aebeccd7efff.jpeg",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/5a890225-af77-4977-bd7a-aebeccd7efff.jpeg",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/5a890225-af77-4977-bd7a-aebeccd7efff.jpeg",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/5a890225-af77-4977-bd7a-aebeccd7efff.jpeg",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/5a890225-af77-4977-bd7a-aebeccd7efff.jpeg"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-09T07:50:13.3897759+00:00",
+        "updatedAt": "2025-04-12T13:31:29.9360803+00:00",
+        "signature": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/febad31c-43cb-422d-8279-e425783cf6a5.png",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/febad31c-43cb-422d-8279-e425783cf6a5.png",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/febad31c-43cb-422d-8279-e425783cf6a5.png",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/febad31c-43cb-422d-8279-e425783cf6a5.png",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/febad31c-43cb-422d-8279-e425783cf6a5.png",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/febad31c-43cb-422d-8279-e425783cf6a5.png"
+        },
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccLAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccLAAAAAAAAAA==/",
+        "_etag": "\"0300779c-0000-2300-0000-67fa6b310000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744464689
+    },
+    {
+        "id": "6edfc27f-11d5-4fdb-a9ce-4861955e7c7d",
+        "_id": "6edfc27f-11d5-4fdb-a9ce-4861955e7c7d",
+        "firstName": "Edissa Jolina",
+        "lastName": "Labrada",
+        "middleName": "Amante",
+        "suffix": "N/A",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "jedissa48@gmail.com",
+        "password": "$2a$11$Dkt1qGU8//d1AWTPMY93xO0V2I.4ucmOB0dXjLeEdxLGAVJyby43G",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "accountant",
+            "slug": "accountant",
+            "name": "Accountant",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": "Sto. Niño",
+            "city": "Manolo Fortich",
+            "province": "Bukidnon",
+            "region": "Region X - Northern Mindanao",
+            "zipCode": "8073"
+        },
+        "passwordResetCode": "craWmSaiivqcAUAWSBxIZg8rnckcOJI1",
+        "resetSendDate": "2025-04-09T08:12:55.4249906+00:00",
+        "profilePicture": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/fcac847c-f7db-48dd-ae23-373218bcf5a0.jpeg",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/fcac847c-f7db-48dd-ae23-373218bcf5a0.jpeg",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/fcac847c-f7db-48dd-ae23-373218bcf5a0.jpeg",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/fcac847c-f7db-48dd-ae23-373218bcf5a0.jpeg",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/fcac847c-f7db-48dd-ae23-373218bcf5a0.jpeg",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/fcac847c-f7db-48dd-ae23-373218bcf5a0.jpeg"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Accountant 1",
+            "title": "Engineer",
+            "division": "EOD",
+            "position": "Accountant 1",
+            "designation": "Accountant 1",
+            "signature": ""
+        },
+        "isOnline": true,
+        "lastOnline": "2025-04-21T07:53:49.4559899+00:00",
+        "createdAt": "2025-04-09T08:12:55.4247847+00:00",
+        "updatedAt": "2025-04-14T04:29:16.9979602+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccMAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccMAAAAAAAAAA==/",
+        "_etag": "\"7602be98-0000-2300-0000-6805f98d0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1745222029
+    },
+    {
+        "id": "381a8e39-1584-494e-9f7d-531261d59f4b",
+        "_id": "381a8e39-1584-494e-9f7d-531261d59f4b",
+        "firstName": "test-Jed",
+        "lastName": "Cashier",
+        "middleName": "NA",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "jpdapog@gmail.com",
+        "password": "$2a$11$tWxzCBAm9uQ.7QxYCH5AO.pojEUck2R5JSak40wJCS0mmPz8mZ.Rq",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "cashier",
+            "slug": "cashier",
+            "name": "Cashier",
+            "permission": {
+                "chatPermission": true,
+                "activityPermission": true,
+                "meetPermission": true,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": true,
+                    "history": true
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "Rkwnu2DkgYENMrO4KNAbqTSDj2L3YoRL",
+        "resetSendDate": "2025-04-09T08:28:51.055493+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=JpCashier+Dap og&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=JpCashier+Dap og&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=JpCashier+Dap og&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=JpCashier+Dap og&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=JpCashier+Dap og&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=JpCashier+Dap og&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Cashier",
+            "title": "cashier",
+            "division": "FAD",
+            "position": "Cashier",
+            "designation": "Cashier",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-12T05:33:33.3614766+00:00",
+        "createdAt": "2025-04-09T08:28:51.0554524+00:00",
+        "updatedAt": "2025-04-09T15:25:56.2381963+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccNAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccNAAAAAAAAAA==/",
+        "_etag": "\"0200b910-0000-2300-0000-67f9fb2d0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744436013
+    },
+    {
+        "id": "e13a9d20-7b80-4674-8724-4e8d63bb7cde",
+        "_id": "e13a9d20-7b80-4674-8724-4e8d63bb7cde",
+        "firstName": "edward",
+        "lastName": "lorilla",
+        "middleName": "lance",
+        "suffix": "Aliquip sunt neque t",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "edwardlorilla1986@gmail.com",
+        "password": "$2a$11$aN3UxBoawgko1bZ6xUI4U.VO/U2vEekhigkjtgDDs9MNVW.PjCuku",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "evaluator",
+            "slug": "evaluator",
+            "name": "Evaluator",
+            "permission": {
+                "chatPermission": true,
+                "activityPermission": true,
+                "meetPermission": true,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": true,
+                    "history": true
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "NDgBux0OfZjyCsNuXo8jsRSuivQ5Ru0g",
+        "resetSendDate": "2025-04-11T07:30:53.6603596+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "1",
+            "title": "Evaluator",
+            "division": "Evaluator",
+            "position": "Evaluator",
+            "designation": "Evaluator",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-20T11:22:52.7823411+00:00",
+        "createdAt": "2025-04-09T13:29:38.943336+00:00",
+        "updatedAt": "2025-04-13T15:29:51.8348902+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccOAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccOAAAAAAAAAA==/",
+        "_etag": "\"f0015ed4-0000-2300-0000-6804d90c0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1745148172
+    },
+    {
+        "id": "171b246e-fa49-434d-8909-9825e09530c3",
+        "_id": "171b246e-fa49-434d-8909-9825e09530c3",
+        "firstName": "Louie",
+        "lastName": "Flores - Accountant",
+        "middleName": "T",
+        "suffix": "Jr",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "r12.licensing1@ntc.gov.ph",
+        "password": "$2a$11$hSIBWqRmENZrErH/M6xw9.qwkdh8iW97UFVAX8spfZl9Y8LX6Nhi2",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "accountant",
+            "slug": "accountant",
+            "name": "Accountant",
+            "permission": {
+                "chatPermission": true,
+                "activityPermission": true,
+                "meetPermission": true,
+                "qrCodePermission": true,
+                "tabPermission": {
+                    "all": false,
+                    "pending": true,
+                    "history": true
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "67ZfgPpzC0Aqb4z2xy2nd0K5f2buqxq2",
+        "resetSendDate": "2025-04-09T15:28:34.563173+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Louie+Flores&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Louie+Flores&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Louie+Flores&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Louie+Flores&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Louie+Flores&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Louie+Flores&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "",
+            "title": "",
+            "division": "",
+            "position": "",
+            "designation": "",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-14T12:57:37.5405701+00:00",
+        "createdAt": "2025-04-09T15:28:34.563049+00:00",
+        "updatedAt": "2025-04-09T15:54:43.844304+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccQAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccQAAAAAAAAAA==/",
+        "_etag": "\"1500d7fe-0000-2300-0000-67fd06410000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744635457
+    },
+    {
+        "id": "dcb22a8a-3e24-4a28-a629-3ff3ba9f6e52",
+        "_id": "dcb22a8a-3e24-4a28-a629-3ff3ba9f6e52",
+        "firstName": "test -Director",
+        "lastName": "JP",
+        "middleName": "NA",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "dirtestntcedge@gmail.com",
+        "password": "$2a$11$bD4dqUBlaEODrwFIsngUM.FQzaBRmYkcJMOIbtmQgAxE8HuZuIh6i",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "director",
+            "slug": "director",
+            "name": "Director",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "Ax3urQ21GDyEYJJd1ODyVSrHRY7xHBiW",
+        "resetSendDate": "2025-04-09T15:36:08.0204444+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=test -Director+JP&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=test -Director+JP&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=test -Director+JP&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=test -Director+JP&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=test -Director+JP&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=test -Director+JP&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Director II",
+            "title": "Director II",
+            "division": "EOD",
+            "position": "Director II",
+            "designation": "Director II",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-12T06:23:03.3974798+00:00",
+        "createdAt": "2025-04-09T15:36:08.0204085+00:00",
+        "updatedAt": "2025-04-09T15:36:08.0204116+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccRAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccRAAAAAAAAAA==/",
+        "_etag": "\"0200c154-0000-2300-0000-67fa06c70000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744438983
+    },
+    {
+        "id": "73fe1a07-2956-4eaa-8aca-61da5e5ba5fe",
+        "_id": "73fe1a07-2956-4eaa-8aca-61da5e5ba5fe",
+        "firstName": "Test-Jed",
+        "lastName": "Accountant",
+        "middleName": "NA",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "acctestntcedge@gmail.com",
+        "password": "$2a$11$0MJ3aOrxAu0S80RY.YfIHuxFTGFCWRukJmcC4ykJgP6W9JBQFSQ0q",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "accountant",
+            "slug": "accountant",
+            "name": "Accountant",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "7erOrkvzsE9JuS9X1yYIpfssmYda1oex",
+        "resetSendDate": "2025-04-09T15:51:39.9499051+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Test-Jed+Accountant&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Test-Jed+Accountant&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Test-Jed+Accountant&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Test-Jed+Accountant&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Test-Jed+Accountant&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Test-Jed+Accountant&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Accountant II",
+            "title": "Accountant II",
+            "division": "FAD",
+            "position": "Accountant II",
+            "designation": "Accountant II",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-12T06:23:03.3968949+00:00",
+        "createdAt": "2025-04-09T15:51:39.9498799+00:00",
+        "updatedAt": "2025-04-09T15:51:39.949882+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccSAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccSAAAAAAAAAA==/",
+        "_etag": "\"0200c054-0000-2300-0000-67fa06c70000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744438983
+    },
+    {
+        "id": "bdd66621-fe9e-443a-a912-1c82827c46fb",
+        "_id": "bdd66621-fe9e-443a-a912-1c82827c46fb",
+        "firstName": "Jolina",
+        "lastName": "Amante",
+        "middleName": "",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "ejamante07@gmail.com",
+        "password": "$2a$11$5x5CMlzj9f3PQmSnJIDsj.jLWIlNcPzqkyI6chen2F6C91RNsssQG",
+        "contactNumber": "09750816459",
+        "dateOfBirth": "1995-10-11T01:38:53.709Z",
+        "sex": "Male",
+        "nationality": "Filipino",
+        "role": {
+            "key": "user",
+            "slug": "user",
+            "name": "User",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": "",
+            "unit": "",
+            "barangay": "Brgy. 4",
+            "city": "City Of Koronadal (Capital)",
+            "province": "South Cotabato",
+            "region": "Region XII - SOCCSKSARGEN",
+            "zipCode": "9506"
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Jolina+Amante&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Jolina+Amante&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Jolina+Amante&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Jolina+Amante&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Jolina+Amante&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Jolina+Amante&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-10T01:39:37.9553845+00:00",
+        "updatedAt": "2025-04-10T01:39:39.1810164+00:00",
+        "signature": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/18a74582-0427-44e2-98e5-0cf909aa7c33.png",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/18a74582-0427-44e2-98e5-0cf909aa7c33.png",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/18a74582-0427-44e2-98e5-0cf909aa7c33.png",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/18a74582-0427-44e2-98e5-0cf909aa7c33.png",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/18a74582-0427-44e2-98e5-0cf909aa7c33.png",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/18a74582-0427-44e2-98e5-0cf909aa7c33.png"
+        },
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccTAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccTAAAAAAAAAA==/",
+        "_etag": "\"00002a0f-0000-2300-0000-67f7215b0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744249179
+    },
+    {
+        "id": "02cdd44b-821a-45eb-8f1e-cec3f9338ee7",
+        "_id": "02cdd44b-821a-45eb-8f1e-cec3f9338ee7",
+        "firstName": "Cashier",
+        "lastName": "One",
+        "middleName": "One",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "ltflores.ntc12@gmail.com",
+        "password": "$2a$11$S9y4IdLgSBsRSjo00ldgfOqkgwiUXS.RaFBIg2u/eY/S9TKLjb9Bu",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "cashier",
+            "slug": "cashier",
+            "name": "Cashier",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "cddjjeAr3RnSEa0vIyap2Y71qvCT23Ws",
+        "resetSendDate": "2025-04-11T13:31:20.0835021+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Cashier+One&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Cashier+One&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Cashier+One&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Cashier+One&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Cashier+One&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Cashier+One&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Cashier",
+            "title": "Cashier",
+            "division": "FAD",
+            "position": "Cashier",
+            "designation": "Cashier",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-14T12:57:36.5366586+00:00",
+        "createdAt": "2025-04-11T13:31:20.0751968+00:00",
+        "updatedAt": "2025-04-11T13:31:20.0819245+00:00",
+        "signature": null,
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccUAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccUAAAAAAAAAA==/",
+        "_etag": "\"1500cbfe-0000-2300-0000-67fd06400000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744635456
+    },
+    {
+        "id": "8bdb1bb6-7f30-4e66-ad3c-bcab0d46cff7",
+        "_id": "8bdb1bb6-7f30-4e66-ad3c-bcab0d46cff7",
+        "firstName": "edward",
+        "lastName": "lorilla",
+        "middleName": "Lance",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "edwardlance.lorilla@ustp.edu.ph",
+        "password": "$2a$11$EvSOfJhMf.w2EA9oC0CcAOBytiNN9W01fzAlq2q0GyxuPq4u7HGeG",
+        "contactNumber": "09499336747",
+        "dateOfBirth": "1995-06-13T06:00:17.36Z",
+        "sex": "Male",
+        "nationality": "Filippimp",
+        "role": {
+            "key": "user",
+            "slug": "user",
+            "name": "User",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": "88 CELICA STREET",
+            "unit": "sarphil subdivision",
+            "barangay": "1",
+            "city": "Cotabato City",
+            "province": "Cotabato City",
+            "region": "Region XII - SOCCSKSARGEN",
+            "zipCode": "8000"
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=edward+lorilla&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-12T06:00:56.0424854+00:00",
+        "updatedAt": "2025-04-13T17:44:49.2877838+00:00",
+        "signature": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/3748866c-fda7-4cee-97e2-d542bd871332.png",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/3748866c-fda7-4cee-97e2-d542bd871332.png",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/3748866c-fda7-4cee-97e2-d542bd871332.png",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/3748866c-fda7-4cee-97e2-d542bd871332.png",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/3748866c-fda7-4cee-97e2-d542bd871332.png",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/3748866c-fda7-4cee-97e2-d542bd871332.png"
+        },
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccVAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccVAAAAAAAAAA==/",
+        "_etag": "\"0600e721-0000-2300-0000-67fbf8110000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744566289
+    },
+    {
+        "id": "289ec32e-acec-460d-92b5-eb29c5f20fb3",
+        "_id": "289ec32e-acec-460d-92b5-eb29c5f20fb3",
+        "firstName": "Edissa",
+        "lastName": "Labrada",
+        "middleName": "Amante",
+        "suffix": "N/A",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "vanzamantes@gmail.com",
+        "password": "$2a$11$vrmG61lAnMlolNPa4n8Lsu5NHyWeq7WrR.8nxT4vNsVcSBapoWkRC",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "evaluator",
+            "slug": "evaluator",
+            "name": "Evaluator",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "ICJL0XwQHkREqBmDNSxCS4corzN2tmdQ",
+        "resetSendDate": "2025-04-21T03:19:26.4544487+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Edissa+Labrada&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Edissa+Labrada&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Edissa+Labrada&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Edissa+Labrada&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Edissa+Labrada&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Edissa+Labrada&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "Evaluator",
+            "title": "Evaluator",
+            "division": "EOD",
+            "position": "Evaluator",
+            "designation": "Evaluator",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-21T11:33:10.9028704+00:00",
+        "createdAt": "2025-04-14T04:22:55.6848773+00:00",
+        "updatedAt": "2025-04-21T03:19:27.0065394+00:00",
+        "signature": null,
+        "IsDefault": false,
+        "_rid": "foAfAPr+3ccWAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccWAAAAAAAAAA==/",
+        "_etag": "\"a102c142-0000-2300-0000-68062cf70000\"",
+        "_attachments": "attachments/",
+        "_ts": 1745235191
+    },
+    {
+        "id": "12d20421-542e-42bd-bf30-fc20aa4d04cf",
+        "_id": "12d20421-542e-42bd-bf30-fc20aa4d04cf",
+        "firstName": "Ozone",
+        "lastName": "Labrada",
+        "middleName": "Laspoña",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "julietaamante564@gmail.com",
+        "password": "$2a$11$kksAxDr3i1xNGlnexuYMUe4663WBLKoZ81oddEdXmwx0j2ZDuEU0.",
+        "contactNumber": null,
+        "dateOfBirth": "0001-01-01T00:00:00",
+        "sex": null,
+        "nationality": null,
+        "role": {
+            "key": "cashier",
+            "slug": "cashier",
+            "name": "Cashier",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": null,
+            "unit": null,
+            "barangay": null,
+            "city": null,
+            "province": null,
+            "region": null,
+            "zipCode": null
+        },
+        "passwordResetCode": "ECRRj06fzrVftj83X6I4lZkUwigbthfv",
+        "resetSendDate": "2025-04-21T03:20:19.5783341+00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=Ozone+Labrada&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=Ozone+Labrada&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=Ozone+Labrada&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=Ozone+Labrada&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=Ozone+Labrada&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=Ozone+Labrada&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": {
+            "region": "XII",
+            "level": "cashier 1",
+            "title": "cashier 1",
+            "division": "eod",
+            "position": "cashier 1",
+            "designation": "cashier 1",
+            "signature": ""
+        },
+        "isOnline": false,
+        "lastOnline": "2025-04-21T11:33:13.8803192+00:00",
+        "createdAt": "2025-04-14T04:39:59.7422947+00:00",
+        "updatedAt": "2025-04-21T03:20:20.1233702+00:00",
+        "signature": null,
+        "IsDefault": false,
+        "_rid": "foAfAPr+3ccXAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccXAAAAAAAAAA==/",
+        "_etag": "\"a1022e44-0000-2300-0000-68062cfa0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1745235194
+    },
+    {
+        "id": "81a13002-3cec-43f3-95c8-20f3d1aeb752",
+        "_id": "81a13002-3cec-43f3-95c8-20f3d1aeb752",
+        "firstName": "JP",
+        "lastName": "Customer",
+        "middleName": "",
+        "suffix": "",
+        "canViewReport": false,
+        "canViewFees": false,
+        "canViewServices": false,
+        "email": "jpdapoglsa@gmail.com",
+        "password": "$2a$11$qTl/yyDJjsK9XVRRJqQ/7./J6iURPGpBAeIi0oBKWPIG3vVrZ9BfK",
+        "contactNumber": "09057582116",
+        "dateOfBirth": "2000-01-01T15:34:58.123Z",
+        "sex": "Male",
+        "nationality": "Filipino",
+        "role": {
+            "key": "user",
+            "slug": "user",
+            "name": "User",
+            "permission": {
+                "chatPermission": false,
+                "activityPermission": false,
+                "meetPermission": false,
+                "qrCodePermission": false,
+                "tabPermission": {
+                    "all": false,
+                    "pending": false,
+                    "history": false
+                },
+                "schedulePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "configurationPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "userPermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "employeePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "rolePermission": {
+                    "view": false,
+                    "edit": false,
+                    "delete": false,
+                    "create": false
+                },
+                "resetPasswordPermission": false,
+                "reportEvaluatorPermission": false,
+                "reportCashierPermission": false
+            }
+        },
+        "userType": "Individual",
+        "address": {
+            "street": "",
+            "unit": "",
+            "barangay": "Poblacion",
+            "city": "Surallah",
+            "province": "South Cotabato",
+            "region": "Region XII - SOCCSKSARGEN",
+            "zipCode": "9512"
+        },
+        "passwordResetCode": null,
+        "resetSendDate": "0001-01-01T00:00:00",
+        "profilePicture": {
+            "original": "https://ui-avatars.com/api/?name=JP+Customer&background=3b82f6&color=fff&size=320",
+            "thumb": "https://ui-avatars.com/api/?name=JP+Customer&background=3b82f6&color=fff&size=75",
+            "small": "https://ui-avatars.com/api/?name=JP+Customer&background=3b82f6&color=fff&size=150",
+            "medium": "https://ui-avatars.com/api/?name=JP+Customer&background=3b82f6&color=fff&size=600",
+            "large": "https://ui-avatars.com/api/?name=JP+Customer&background=3b82f6&color=fff&size=900",
+            "xlarge": "https://ui-avatars.com/api/?name=JP+Customer&background=3b82f6&color=fff&size=1200"
+        },
+        "employeeDetails": null,
+        "isOnline": false,
+        "lastOnline": null,
+        "createdAt": "2025-04-14T15:36:00.9833594+00:00",
+        "updatedAt": "2025-04-14T16:13:18.8577543+00:00",
+        "signature": {
+            "original": "https://prodedgeaccountstorage.blob.core.windows.net/files/7d91a9e6-41ad-4c74-ab39-b3b1b91a85e7.png",
+            "thumb": "https://prodedgeaccountstorage.blob.core.windows.net/files/7d91a9e6-41ad-4c74-ab39-b3b1b91a85e7.png",
+            "small": "https://prodedgeaccountstorage.blob.core.windows.net/files/7d91a9e6-41ad-4c74-ab39-b3b1b91a85e7.png",
+            "medium": "https://prodedgeaccountstorage.blob.core.windows.net/files/7d91a9e6-41ad-4c74-ab39-b3b1b91a85e7.png",
+            "large": "https://prodedgeaccountstorage.blob.core.windows.net/files/7d91a9e6-41ad-4c74-ab39-b3b1b91a85e7.png",
+            "xlarge": "https://prodedgeaccountstorage.blob.core.windows.net/files/7d91a9e6-41ad-4c74-ab39-b3b1b91a85e7.png"
+        },
+        "isDefault": false,
+        "_rid": "foAfAPr+3ccYAAAAAAAAAA==",
+        "_self": "dbs/foAfAA==/colls/foAfAPr+3cc=/docs/foAfAPr+3ccYAAAAAAAAAA==/",
+        "_etag": "\"1700f60b-0000-2300-0000-67fd341e0000\"",
+        "_attachments": "attachments/",
+        "_ts": 1744647198
+    }
+]
