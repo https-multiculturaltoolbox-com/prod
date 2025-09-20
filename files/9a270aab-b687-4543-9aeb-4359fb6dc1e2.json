@@ -1,0 +1,21 @@
+{
+    "id": "48fd4355-bcb9-4d1f-a967-87a31960e0dc",
+    "venue": "NTC REGION XIII - BUTUAN OFFICE",
+    "region": {
+        "_id": null,
+        "label": "Region XIII - Caraga",
+        "value": "XIII",
+        "code": "XIII",
+        "configuration": null
+    },
+    "slots": 0,
+    "dateStart": "2025-04-10T00:00:00Z",
+    "dateEnd": "2025-03-27T08:00:00Z",
+    "createdAt": "2025-03-18T08:28:50.9417992+00:00",
+    "updatedAt": "2025-03-27T05:37:02.3928313+00:00",
+    "_rid": "kCc1AINrPEYBAAAAAAAAAA==",
+    "_self": "dbs/kCc1AA==/colls/kCc1AINrPEY=/docs/kCc1AINrPEYBAAAAAAAAAA==/",
+    "_etag": "\"cf018a57-0000-2300-0000-67e4e3fe0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1743053822
+}
