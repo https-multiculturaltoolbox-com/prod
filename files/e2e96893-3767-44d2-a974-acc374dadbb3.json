@@ -1,0 +1,79 @@
+{
+  "id": "stu_003",
+  "studentNumber": "2025-00789",
+  "fullName": {
+    "first": "Katrina",
+    "middle": "I.",
+    "last": "Villanueva",
+    "suffix": ""
+  },
+  "dateOfBirth": "2005-11-22",
+  "citizenship": "Filipino",
+  "contact": {
+    "email": "katrina.villanueva@ustp.edu.ph",
+    "phone": "+63-927-555-2210"
+  },
+  "address": {
+    "line1": "Blk 5 Lot 12, Macasandig",
+    "city": "Cagayan de Oro",
+    "province": "Misamis Oriental",
+    "postalCode": "9000",
+    "country": "PH"
+  },
+  "emergencyContacts": [
+    {
+      "name": "Arvin Villanueva",
+      "relation": "Father",
+      "phone": "+63-915-000-3344"
+    }
+  ],
+  "academic": {
+    "college": "Engineering and Architecture",
+    "program": "BS Electrical Engineering",
+    "yearLevel": 4,
+    "section": "EE4-A",
+    "status": "Enrolled",
+    "curriculumYear": 2022
+  },
+  "currentTerm": {
+    "term": "2025-1",
+    "unitsEnrolled": 18,
+    "courses": [
+      { "code": "EE 411", "title": "Power Systems Analysis", "units": 3 },
+      { "code": "EE 413", "title": "Control Systems", "units": 3 },
+      { "code": "EE 415", "title": "Electrical Machines 2", "units": 3 },
+      { "code": "EE 417", "title": "Instrumentation", "units": 3 },
+      { "code": "EE 419", "title": "EE Laws & Ethics", "units": 3 },
+      { "code": "RES 401", "title": "Undergrad Thesis 1", "units": 3 }
+    ]
+  },
+  "standing": {
+    "gwa": 1.92,
+    "lastTermGWA": 1.75,
+    "goodMoral": true
+  },
+  "ids": {
+    "rfid": "RF-EE-2025-0789",
+    "library": "LIB-102345",
+    "nationalID": "PHN-2025-8891"
+  },
+  "scholarship": {
+    "name": "DOST-SEI",
+    "coverage": ["tuition", "stipend"],
+    "active": true
+  },
+  "accounts": {
+    "tuition": 28500,
+    "otherFees": 3500,
+    "payments": 20000,
+    "balance": 12000
+  },
+  "consents": {
+    "dataPrivacy": true,
+    "photoRelease": false
+  },
+  "metadata": {
+    "createdAt": "2025-08-13T08:10:00Z",
+    "updatedAt": "2025-08-13T08:10:00Z"
+  }
+}
